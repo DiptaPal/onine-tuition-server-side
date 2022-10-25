@@ -6,7 +6,7 @@
         "total_student": 553,
         "title": "Learn the Basic of Python",
         "lessons": "10 lessons",
-        "author": {
+        "teacher": {
             "name": "Hinton Noble",
             "author_img": "https://randomuser.me/api/portraits/men/79.jpg",
             "last_updated": "2015-07-18"
@@ -30,7 +30,7 @@
         "total_student": 638,
         "title": "Introduction to Object Oriented Programing",
         "lessons": "8 lessons",
-        "author": {
+        "teacher": {
             "name": "Marisol Pena",
             "author_img": "https://randomuser.me/api/portraits/men/85.jpg",
             "last_updated": "2021-10-12"
@@ -54,7 +54,7 @@
         "total_student": 697,
         "title": "JavaScript - The Complete Guide",
         "lessons": "11 lessons",
-        "author": {
+        "teacher": {
             "name": "Earlene Pittman",
             "author_img": "https://randomuser.me/api/portraits/men/11.jpg",
             "last_updated": "2019-09-27"
@@ -78,7 +78,7 @@
         "total_student": 514,
         "title": "Beginning C++ Programming",
         "lessons": "8 lessons",
-        "author": {
+        "teacher": {
             "name": "Florine Gomez",
             "author_img": "https://randomuser.me/api/portraits/men/62.jpg",
             "last_updated": "2019-09-25"
@@ -102,7 +102,7 @@
         "total_student": 644,
         "title": "Learn to Code with Ruby",
         "lessons": "6 lessons",
-        "author": {
+        "teacher": {
             "name": "Bauer Cline",
             "author_img": "https://randomuser.me/api/portraits/men/37.jpg",
             "last_updated": "2017-07-26"
@@ -126,7 +126,7 @@
         "total_student": 864,
         "title": "PHP for Beginners",
         "lessons": "7 lessons",
-        "author": {
+        "teacher": {
             "name": "Dave Hollingworth",
             "author_img": "https://randomuser.me/api/portraits/women/65.jpg",
             "last_updated": "2017-07-26"
