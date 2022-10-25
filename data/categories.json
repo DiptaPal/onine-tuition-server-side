@@ -1,0 +1,26 @@
+[
+    {
+      "_id": "01",
+      "name": "Programming"
+    },
+    {
+      "_id": "02",
+      "name": "Mobile Development"
+    },
+    {
+      "_id": "03",
+      "name": "Digital Marketing"
+    },
+    {
+      "_id": "04",
+      "name": "Graphic Design"
+    },
+    {
+      "_id": "05",
+      "name": "Web Development"
+    },
+    {
+      "_id": "06",
+      "name": "Cyber Security"
+    }
+  ]
