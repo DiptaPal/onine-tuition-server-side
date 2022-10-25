@@ -33,5 +33,5 @@ app.get('/courses/:id', (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log(`Online Tuition Server running on port: ${port}`);
+    console.log(`Online Tuition Server is running on port: ${port}`);
 });
