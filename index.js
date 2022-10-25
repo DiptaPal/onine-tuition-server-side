@@ -9,7 +9,7 @@ const courses = require('./data/courses.json')
 app.use(cors())
 
 app.get('/', (req, res) => {
-    res.send('Online Tuition')
+    res.send('Online Study')
 });
 
 app.get('/categories', (req, res) => {

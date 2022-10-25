@@ -1,26 +1,32 @@
 [
-    {
-      "_id": "01",
-      "name": "Programming"
-    },
-    {
-      "_id": "02",
-      "name": "Mobile Development"
-    },
-    {
-      "_id": "03",
-      "name": "Digital Marketing"
-    },
-    {
-      "_id": "04",
-      "name": "Graphic Design"
-    },
-    {
-      "_id": "05",
-      "name": "Web Development"
-    },
-    {
-      "_id": "06",
-      "name": "Cyber Security"
-    }
-  ]
+  {
+    "_id": "01",
+    "name": "Web Development",
+    "image": "https://i.ibb.co/f9S8jQ5/web.jpg"
+  },
+  {
+    "_id": "02",
+    "name": "Programming",
+    "image": "https://i.ibb.co/CBsWdgT/programming.jpg"
+  },
+  {
+    "_id": "03",
+    "name": "Mobile Development",
+    "image": "https://i.ibb.co/YXsYcvx/mobile.jpg"
+  },
+  {
+    "_id": "04",
+    "name": "Digital Marketing",
+    "image": "https://i.ibb.co/WVpM8PG/digital.jpg"
+  },
+  {
+    "_id": "05",
+    "name": "Graphic Design",
+    "image": "https://i.ibb.co/XV5CJPs/graphic.jpg"
+  },
+  {
+    "_id": "06",
+    "name": "Cyber Security",
+    "image": "https://i.ibb.co/pJnctfc/cyber.jpg"
+  }
+]

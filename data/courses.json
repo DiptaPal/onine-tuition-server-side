@@ -5,6 +5,7 @@
         "rating": "$4.4",
         "total_student": 553,
         "title": "Learn the Basic of Python",
+        "lessons": "10 lessons",
         "author": {
             "name": "Hinton Noble",
             "author_img": "https://randomuser.me/api/portraits/men/79.jpg",
@@ -27,7 +28,8 @@
         "category_id": "01",
         "rating": "$5.0",
         "total_student": 638,
-        "title": "Introduction to Object Oriented Programing(Java)",
+        "title": "Introduction to Object Oriented Programing",
+        "lessons": "8 lessons",
         "author": {
             "name": "Marisol Pena",
             "author_img": "https://randomuser.me/api/portraits/men/85.jpg",
@@ -50,7 +52,8 @@
         "category_id": "01",
         "rating": "$4.6",
         "total_student": 697,
-        "title": "JavaScript - The Complete Guide 2022 (Beginner + Advanced)",
+        "title": "JavaScript - The Complete Guide",
+        "lessons": "11 lessons",
         "author": {
             "name": "Earlene Pittman",
             "author_img": "https://randomuser.me/api/portraits/men/11.jpg",
@@ -73,7 +76,8 @@
         "category_id": "01",
         "rating": "$4.1",
         "total_student": 514,
-        "title": "Beginning C++ Programming - From Beginner to Beyond",
+        "title": "Beginning C++ Programming",
+        "lessons": "8 lessons",
         "author": {
             "name": "Florine Gomez",
             "author_img": "https://randomuser.me/api/portraits/men/62.jpg",
@@ -96,7 +100,8 @@
         "category_id": "01",
         "rating": "$4.9",
         "total_student": 644,
-        "title": "The Complete Ruby on Rails Developer Course",
+        "title": "Learn to Code with Ruby",
+        "lessons": "6 lessons",
         "author": {
             "name": "Bauer Cline",
             "author_img": "https://randomuser.me/api/portraits/men/37.jpg",
@@ -105,6 +110,7 @@
         "price": "$123.04",
         "image_url": "https://i.ibb.co/7Nhhjx1/ruby1.jpg",
         "thumbnail_url": "https://i.ibb.co/Bq2NQYZ/ruby2.jpg",
+        "short_details": "Learn to make innovative web apps with Ruby on Rails and unleash your creativity",
         "overview": [
             "Learn how to rapidly prototype ideas and turn them into presentable apps",
             "Become a professional web application developer",
@@ -112,5 +118,29 @@
             "Design and build virtually any web application you can imagine"
         ],
         "details": "Since its introduction, Ruby on Rails has rapidly become one of the most popular and powerful web application development tools for both startups and mature software companies. Some of the top sites in the world started with Ruby on Rails such as Basecamp, Twitter, Shopify, Github, LivingSocial, Groupon, Hulu, Airbnb, Yellow Pages and many more! Even after immense scaling, most of them continue to use Rails! Ruby on Rails developers routinely command the highest salaries in the tech industry!"
+    },
+    {
+        "_id": "635717f7a5440ab7459a4ac1c",
+        "category_id": "01",
+        "rating": "$4.8",
+        "total_student": 864,
+        "title": "PHP for Beginners",
+        "lessons": "7 lessons",
+        "author": {
+            "name": "Dave Hollingworth",
+            "author_img": "https://randomuser.me/api/portraits/women/65.jpg",
+            "last_updated": "2017-07-26"
+        },
+        "price": "$123.04",
+        "image_url": "https://i.ibb.co/VHDKgDC/php2.jpg",
+        "thumbnail_url": "https://i.ibb.co/nnc0VvY/py2.jpg",
+        "short_details": "Build a Content Management System from Scratch with PHP and MySQL",
+        "overview": [
+            "Learn how to create a dynamic website using the most popular website programming language",
+            "Learn how to secure your code",
+            "Become a professional Ruby on Rails developer",
+            "Learn how to write reusable, more maintainable code using programming standards"
+        ],
+        "details": "You will learn  how to create a dynamic website using the most popular website programming language in the world, PHP. Dave Hollingworth, your instructor will teach you the PHP programming language, and take you through the steps to build a working CMS in PHP and MySQL from scratch. Along the way, you will learn how to secure your code, how to write reusable, more maintainable code using programming standards, and how to structure your code using object-oriented programming techniques. Dave will teach you the theory and then put the theory into practice when building the CMS.You will also learn how to style your site using Bootstrap, how to integrate third-party code into your site, how to store data in a relational database and use this from PHP code, and more.The course is very thorough, and goes through everything from installing a web server on your own computer, and editor to writing the code to create your web app.  Towards the end of the course you will even learn how to upload the code and make your code live on the internet (very useful if you already have your own Hosting account).  This is not necessary to complete the course though."
     }
 ]
