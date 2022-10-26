@@ -6,6 +6,18 @@
         "total_student": 553,
         "title": "Learn the Basic of Python",
         "lessons": "10 lessons",
+        "lectures": "36 lectures",
+        "durations": "3 months",
+        "time": "56 hours",
+        "language": "English",
+        "requirement": [
+            "Basic math skills",
+            "Have a computer (either Mac, Windows, or Linux)",
+            "Desire to learn!",
+            "No prior knowledge of Python is required",
+            "No previous programming experience is needed",
+            "Prepare to fall in love with Python and programming!"
+        ],
         "like": {
             "name": "Angel Rhodes",
             "total_likes": 89
@@ -13,7 +25,13 @@
         "teacher": {
             "name": "Hinton Noble",
             "author_img": "https://randomuser.me/api/portraits/men/79.jpg",
-            "last_updated": "2015-07-18"
+            "last_updated": "2015-07-18",
+            "instructor_rating": "4.6 Instructor Rating",
+            "instructor_review": "227,165 Reviews",
+            "students": "883,215 Students",
+            "courses": "25 Courses",
+            "about": "Hinton Noble is the instructor of some of the highest rated programming and technical courses online and is the founder of ZTM Academy known for having some of the best instructors and tech education in the world. His graduates have moved on to work for some of the biggest tech companies around the world like Apple, Google, Tesla, Amazon, JP Morgan, IBM, UNIQLO etc... He has been working as a senior software developer in Silicon Valley and Toronto for many years, and is now taking all that he has learned, to teach programming skills and to help you discover the amazing career opportunities that being a developer allows in life."
+
         },
         "price": "$131.00",
         "image_url": "https://i.ibb.co/thPvmLS/python-card.jpg",
@@ -34,6 +52,18 @@
         "total_student": 638,
         "title": "Introduction to Object Oriented Programing",
         "lessons": "8 lessons",
+        "lectures": "42 lectures",
+        "durations": "4 months",
+        "time": "59 hours",
+        "language": "English",
+        "requirement": [
+            "No previous programming knowledge is required",
+            "All the tools needed are free to install",
+            "Willingness to learn",
+            "No prior knowledge of Java is required",
+            "No previous programming experience is needed",
+            "Prepare to fall in love with Python and programming!"
+        ],
         "like": {
             "name": "Liz Morrison",
             "total_likes": 81
@@ -41,7 +71,12 @@
         "teacher": {
             "name": "Marisol Pena",
             "author_img": "https://randomuser.me/api/portraits/men/85.jpg",
-            "last_updated": "2021-10-12"
+            "last_updated": "2021-10-12",
+            "instructor_rating": "4.7 Instructor Rating",
+            "instructor_review": "201,165 Reviews",
+            "students": "582,205 Students",
+            "courses": "18 Courses",
+            "about": "Marisol Pena is a professional learning academy that teaches programming at a professional level by experienced and certified software developers. The Marisol Pena Academy has already taught programming to thousands of students around the world, and many of the students got their first programming jobs after going through our courses.Would you like to be the next one?  Come join us, we are waiting for you!"
         },
         "price": "$94.19",
         "image_url": "https://i.ibb.co/bvRnZw9/java2.jpg",
@@ -61,14 +96,31 @@
         "rating": "$4.6",
         "total_student": 697,
         "title": "JavaScript - The Complete Guide",
-        "lessons": "11 lessons","like": {
+        "lessons": "11 lessons",
+        "lectures": "26 lectures",
+        "durations": "3 months",
+        "time": "39 hours",
+        "language": "English",
+        "requirement": [
+            "No coding experience is necessary to take this course! I take you from beginner to expert!",
+            "Any computer and OS will work — Windows, macOS or Linux. We will set up your text editor the course.",
+            "Desire to learn!",
+            "A basic understanding of HTML and CSS is a plus, but not a must! The course includes an HTML and CSS crash course."
+        ],
+
+        "like": {
             "name": "Sheryl Sanchez",
             "total_likes": 94
         },
         "teacher": {
             "name": "Earlene Pittman",
             "author_img": "https://randomuser.me/api/portraits/men/11.jpg",
-            "last_updated": "2019-09-27"
+            "last_updated": "2019-09-27",
+            "instructor_rating": "4.8 Instructor Rating",
+            "instructor_review": "19,125 Reviews",
+            "students": "278,218 Students",
+            "courses": "28 Courses",
+            "about": "I'm a full-stack web developer and designer with a passion for building beautiful things from scratch. I've been building websites and apps since 2010 and also have a Master's degree in Engineering. I discovered my passion for teaching and helping others by sharing all I knew when I was in college, and that passion brought me to Online Study. Here, in all my courses, what students love the most is that I take the time to explain every concept in a way that everyone can easily understand."
         },
         "price": "$85.83",
         "image_url": "https://i.ibb.co/1RNprKW/js2.jpg",
@@ -89,6 +141,17 @@
         "total_student": 514,
         "title": "Beginning C++ Programming",
         "lessons": "8 lessons",
+        "lectures": "46 lectures",
+        "durations": "4 months",
+        "time": "42 hours",
+        "language": "Bangla, English",
+        "requirement": [
+            "Access to a computer running Windows, Mac OS X or Linux",
+            "Desire to learn!",
+            "No prior knowledge of C++ is required",
+            "No previous programming experience is needed",
+            "Prepare to fall in love with C++ and programming!"
+        ],
         "like": {
             "name": "Sanford Andrews",
             "total_likes": 101
@@ -96,7 +159,12 @@
         "teacher": {
             "name": "Florine Gomez",
             "author_img": "https://randomuser.me/api/portraits/men/62.jpg",
-            "last_updated": "2019-09-25"
+            "last_updated": "2019-09-25",
+            "instructor_rating": "4.8 Instructor Rating",
+            "instructor_review": "16,985 Reviews",
+            "students": "568,698 Students",
+            "courses": "24 Courses",
+            "about": "The Learn Programming Academy was created by Florine Gomez, a software developer with 35 years experience, who is also an instructor on Online Study, with over 1.66M+ students in his courses on Java, Python, Android, C#  and the Spring framework. "
         },
         "price": "$117.18",
         "image_url": "https://i.ibb.co/7C94stZ/c1.jpg",
@@ -117,6 +185,15 @@
         "total_student": 644,
         "title": "Learn to Code with Ruby",
         "lessons": "6 lessons",
+        "lectures": "28 lectures",
+        "durations": "2 months",
+        "time": "26 hours",
+        "language": "English",
+        "requirement": [
+            "Basic text editing skills",
+            "Desire to learn!",
+            "Basic computer skills (web browsing, app installation, file navigation)"
+        ],
         "like": {
             "name": "Debora Jimenez",
             "total_likes": 82
@@ -124,7 +201,12 @@
         "teacher": {
             "name": "Bauer Cline",
             "author_img": "https://randomuser.me/api/portraits/men/37.jpg",
-            "last_updated": "2017-07-26"
+            "last_updated": "2017-07-26",
+            "instructor_rating": "4.5 Instructor Rating",
+            "instructor_review": "26,585 Reviews",
+            "students": "269,608 Students",
+            "courses": "25 Courses",
+            "about": "Bauer Cline is one of the few knowledgeable instructors that I found here in Online Study. This course is perfect for beginners because it shows you how Ruby works, how to accomplish day to day tasks with Ruby and how you can avoid bugs by understanding the core concepts well. Highly recommended."
         },
         "price": "$123.04",
         "image_url": "https://i.ibb.co/7Nhhjx1/ruby1.jpg",
@@ -145,14 +227,29 @@
         "total_student": 864,
         "title": "PHP for Beginners",
         "lessons": "7 lessons",
+        "lectures": "18 lectures",
+        "durations": "2 months",
+        "time": "20 hours",
+        "language": "English, Bangla",
+        "requirement": [
+            "Have a computer with Internet",
+            "Be ready to learn an insane amount of awesome stuff",
+            "Prepare to build real web apps!",
+            "Brace yourself for stupid jokes about my dog Rusty"
+        ],
         "like": {
-            "name": "Mcgowan Rowland",
+            "name": "Mcgowan Rowind",
             "total_likes": 88
         },
         "teacher": {
             "name": "Dave Hollingworth",
             "author_img": "https://randomuser.me/api/portraits/women/65.jpg",
-            "last_updated": "2017-07-26"
+            "last_updated": "2017-07-26",
+            "instructor_rating": "4.9 Instructor Rating",
+            "instructor_review": "36,985 Reviews",
+            "students": "569,808 Students",
+            "courses": "29 Courses",
+            "about": "Hi! I'm Dave Hollingworth. I'm a developer with a serious love for teaching. I've spent the last few years teaching people to program at 2 different immersive bootcamps where I've helped hundreds of people become web developers and change their lives. My graduates work at companies like Google, Salesforce, and Square.Most recently, I led Galvanize's SF's 6 month immersive program as Lead Instructor and Curriculum Director. After graduating from my class, 94% of my students went on to receive full-time developer roles. I also worked at Udacity as a Senior Course Developer on the web development team where I got to reach thousands of students daily."
         },
         "price": "$123.04",
         "image_url": "https://i.ibb.co/VHDKgDC/php2.jpg",
