@@ -6,6 +6,10 @@
         "total_student": 553,
         "title": "Learn the Basic of Python",
         "lessons": "10 lessons",
+        "like": {
+            "name": "Angel Rhodes",
+            "total_likes": 89
+        },
         "teacher": {
             "name": "Hinton Noble",
             "author_img": "https://randomuser.me/api/portraits/men/79.jpg",
@@ -30,6 +34,10 @@
         "total_student": 638,
         "title": "Introduction to Object Oriented Programing",
         "lessons": "8 lessons",
+        "like": {
+            "name": "Liz Morrison",
+            "total_likes": 81
+        },
         "teacher": {
             "name": "Marisol Pena",
             "author_img": "https://randomuser.me/api/portraits/men/85.jpg",
@@ -53,7 +61,10 @@
         "rating": "$4.6",
         "total_student": 697,
         "title": "JavaScript - The Complete Guide",
-        "lessons": "11 lessons",
+        "lessons": "11 lessons","like": {
+            "name": "Sheryl Sanchez",
+            "total_likes": 94
+        },
         "teacher": {
             "name": "Earlene Pittman",
             "author_img": "https://randomuser.me/api/portraits/men/11.jpg",
@@ -78,6 +89,10 @@
         "total_student": 514,
         "title": "Beginning C++ Programming",
         "lessons": "8 lessons",
+        "like": {
+            "name": "Sanford Andrews",
+            "total_likes": 101
+        },
         "teacher": {
             "name": "Florine Gomez",
             "author_img": "https://randomuser.me/api/portraits/men/62.jpg",
@@ -102,6 +117,10 @@
         "total_student": 644,
         "title": "Learn to Code with Ruby",
         "lessons": "6 lessons",
+        "like": {
+            "name": "Debora Jimenez",
+            "total_likes": 82
+        },
         "teacher": {
             "name": "Bauer Cline",
             "author_img": "https://randomuser.me/api/portraits/men/37.jpg",
@@ -126,6 +145,10 @@
         "total_student": 864,
         "title": "PHP for Beginners",
         "lessons": "7 lessons",
+        "like": {
+            "name": "Mcgowan Rowland",
+            "total_likes": 88
+        },
         "teacher": {
             "name": "Dave Hollingworth",
             "author_img": "https://randomuser.me/api/portraits/women/65.jpg",
