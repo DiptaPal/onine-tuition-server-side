@@ -2,9 +2,9 @@
 
 ## Live Link: https://online-study-f1d0e.web.app/
 
-## Client Side Repository Link: https://github.com/programming-hero-web-course1/b610-learning-platform-client-side-DiptaPal
+## Client Side Repository Link: https://github.com/DiptaPal/online-tuition-client-side
 
-## Server Side Repository Link: https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-DiptaPal
+## Server Side Repository Link: https://github.com/DiptaPal/onine-tuition-server-side
 
 Here, i am create some fake json data for my app. This json data about some educational courses. Here i generate course title, course descriptions, total students and relevant course instructor information.
 
